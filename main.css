@@ -1,0 +1,33 @@
+.styleForm {
+	border: solid 1px black;
+	margin: 10px auto;
+	width: 70%;
+	padding: 10px;
+	border-radius: 5px;
+	box-shadow: 2px 2px 5px lightSlateGrey;
+	height: auto;
+}
+
+.short {
+	display: block;
+	/*background-color: red;*/
+	height: 50px;
+}
+
+.title {
+	text-align: right;
+	width: 29%;
+	float:left;
+	/*background-color: peachpuff;*/
+}
+
+.full {
+	display: inline-block;
+	width: 70%;
+	float: right;
+	border-radius: 5px;
+	height: 30px;
+}
+
+
+
